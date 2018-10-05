@@ -1,0 +1,873 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                              ./src/Lab03_0.o (SystemCoreClock)
+C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                              C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o) (Chip_Clock_EnablePLL)
+C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                              ./src/sysinit.o (Chip_SystemInit)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+
+Allocating common symbols
+Common symbol       size              file
+
+SystemCoreClock     0x4               C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/Lab03_0.o
+ .text          0x00000000        0x0 ./src/Lab03_0.o
+ .data          0x00000000        0x0 ./src/Lab03_0.o
+ .bss           0x00000000        0x0 ./src/Lab03_0.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x892 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0x892 ./src/crp.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .debug_macro   0x00000000      0x892 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x12d ./src/sysinit.o
+ .debug_macro   0x00000000      0x5b2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7b ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000      0xbb1 ./src/sysinit.o
+ .debug_macro   0x00000000      0x22c ./src/sysinit.o
+ .debug_macro   0x00000000       0x42 ./src/sysinit.o
+ .debug_macro   0x00000000       0x52 ./src/sysinit.o
+ .debug_macro   0x00000000       0x78 ./src/sysinit.o
+ .debug_macro   0x00000000       0x82 ./src/sysinit.o
+ .debug_macro   0x00000000      0x48c ./src/sysinit.o
+ .debug_macro   0x00000000       0x34 ./src/sysinit.o
+ .debug_macro   0x00000000      0x4c5 ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b7 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x21b ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b9 ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000      0x162 ./src/sysinit.o
+ .debug_macro   0x00000000       0x94 ./src/sysinit.o
+ .debug_macro   0x00000000       0xb8 ./src/sysinit.o
+ .debug_macro   0x00000000       0x4c ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x328 ./src/sysinit.o
+ .debug_macro   0x00000000       0x49 ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000       0xca ./src/sysinit.o
+ .debug_macro   0x00000000       0x18 ./src/sysinit.o
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLLocked
+                0x00000000       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLConnected
+                0x00000000       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_USB_Init
+                0x00000000       0x4c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLEnabled
+                0x00000000       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLConnected
+                0x00000000       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBPLLInClockRate
+                0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsPeripheralClockEnabled
+                0x00000000       0x3c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCPUClockSource
+                0x00000000       0x2c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetUSBClockDiv
+                0x00000000       0x30 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockDiv
+                0x00000000       0x1c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetPCLKDiv
+                0x00000000       0x64 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetPCLKDiv
+                0x00000000       0x8c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x44 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBPLLOutClockRate
+                0x00000000       0x40 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockRate
+                0x00000000       0x38 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetPeripheralClockRate
+                0x00000000       0x28 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x886 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_EnableCrystal
+                0x00000000       0x20 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsCrystalEnabled
+                0x00000000       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SetupXtalClocking
+                0x00000000       0x90 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x886 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/Lab03_0.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/sysinit.o
+LOAD C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000      0xb14
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0xb14 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x4 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0xb14 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000004 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x8 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4      0x144 ./src/cr_startup_lpc175x_6x.o
+                0x000000f4                data_init
+                0x00000138                bss_init
+                0x00000170                ResetISR
+                0x000001e8                NMI_Handler
+                0x000001f0                HardFault_Handler
+                0x000001f8                MemManage_Handler
+                0x00000200                BusFault_Handler
+                0x00000208                UsageFault_Handler
+                0x00000210                SVC_Handler
+                0x00000218                DebugMon_Handler
+                0x00000220                PendSV_Handler
+                0x00000230                UART1_IRQHandler
+                0x00000230                EINT3_IRQHandler
+                0x00000230                CANActivity_IRQHandler
+                0x00000230                TIMER3_IRQHandler
+                0x00000230                UART0_IRQHandler
+                0x00000230                USBActivity_IRQHandler
+                0x00000230                EINT2_IRQHandler
+                0x00000230                IntDefaultHandler
+                0x00000230                PLL0_IRQHandler
+                0x00000230                CAN_IRQHandler
+                0x00000230                I2C0_IRQHandler
+                0x00000230                SSP0_IRQHandler
+                0x00000230                I2C1_IRQHandler
+                0x00000230                I2C2_IRQHandler
+                0x00000230                RTC_IRQHandler
+                0x00000230                TIMER0_IRQHandler
+                0x00000230                SPI_IRQHandler
+                0x00000230                RIT_IRQHandler
+                0x00000230                EINT1_IRQHandler
+                0x00000230                TIMER1_IRQHandler
+                0x00000230                UART2_IRQHandler
+                0x00000230                ADC_IRQHandler
+                0x00000230                SSP1_IRQHandler
+                0x00000230                USB_IRQHandler
+                0x00000230                BOD_IRQHandler
+                0x00000230                PWM1_IRQHandler
+                0x00000230                WDT_IRQHandler
+                0x00000230                I2S_IRQHandler
+                0x00000230                QEI_IRQHandler
+                0x00000230                EINT0_IRQHandler
+                0x00000230                ETH_IRQHandler
+                0x00000230                PLL1_IRQHandler
+                0x00000230                DMA_IRQHandler
+                0x00000230                TIMER2_IRQHandler
+                0x00000230                UART3_IRQHandler
+                0x00000230                MCPWM_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x00000238       0xc4 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.NVIC_SetPriority
+                0x00000300       0x54 ./src/Lab03_0.o
+ .text.SysTick_Config
+                0x00000354       0x44 ./src/Lab03_0.o
+ .text.Chip_GPIO_Init
+                0x00000398       0x18 ./src/Lab03_0.o
+ .text.Chip_GPIO_SetPinState
+                0x000003b0       0x68 ./src/Lab03_0.o
+ .text.Chip_GPIO_WritePortBit
+                0x00000418       0x2c ./src/Lab03_0.o
+ .text.Chip_GPIO_GetPinState
+                0x00000444       0x38 ./src/Lab03_0.o
+ .text.Chip_GPIO_SetPinDIROutput
+                0x0000047c       0x38 ./src/Lab03_0.o
+ .text.Chip_GPIO_SetPinDIRInput
+                0x000004b4       0x3c ./src/Lab03_0.o
+ .text.Chip_GPIO_SetPinDIR
+                0x000004f0       0x44 ./src/Lab03_0.o
+ .text.Chip_GPIO_SetDir
+                0x00000534       0x34 ./src/Lab03_0.o
+ .text.SysTick_Handler
+                0x00000568       0x48 ./src/Lab03_0.o
+                0x00000568                SysTick_Handler
+ .text.main     0x000005b0       0x9c ./src/Lab03_0.o
+                0x000005b0                main
+ .text.stepRight
+                0x0000064c       0x28 ./src/Lab03_0.o
+                0x0000064c                stepRight
+ .text.stepLeft
+                0x00000674       0x28 ./src/Lab03_0.o
+                0x00000674                stepLeft
+ .text.SystemInit
+                0x0000069c       0x24 ./src/sysinit.o
+                0x0000069c                SystemInit
+ .text.SystemCoreClockUpdate
+                0x000006c0       0x18 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                0x000006c0                SystemCoreClockUpdate
+ .text.Chip_Clock_IsMainPLLEnabled
+                0x000006d8       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLConnected
+                0x000006fc       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_FeedPLL
+                0x00000720       0x34 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainPLLSource
+                0x00000754       0x20 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainOscRate
+                0x00000774       0x14 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetIntOscRate
+                0x00000788       0x14 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetRTCOscRate
+                0x0000079c       0x14 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainPLLInClockRate
+                0x000007b0       0x10 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_EnablePLL
+                0x000007c0       0x44 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000007c0                Chip_Clock_EnablePLL
+ .text.Chip_Clock_DisablePLL
+                0x00000804       0x48 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000804                Chip_Clock_DisablePLL
+ .text.Chip_Clock_SetupPLL
+                0x0000084c       0x5c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x0000084c                Chip_Clock_SetupPLL
+ .text.Chip_Clock_EnablePeriphClock
+                0x000008a8       0x34 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000008a8                Chip_Clock_EnablePeriphClock
+ .text.Chip_Clock_GetCPUClockSource
+                0x000008dc       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000008dc                Chip_Clock_GetCPUClockSource
+ .text.Chip_Clock_SetCPUClockDiv
+                0x00000900       0x20 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000900                Chip_Clock_SetCPUClockDiv
+ .text.Chip_Clock_GetCPUClockDiv
+                0x00000920       0x1c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000920                Chip_Clock_GetCPUClockDiv
+ .text.Chip_Clock_GetSYSCLKRate
+                0x0000093c       0x34 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x0000093c                Chip_Clock_GetSYSCLKRate
+ .text.Chip_Clock_GetMainPLLOutClockRate
+                0x00000970       0x54 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000970                Chip_Clock_GetMainPLLOutClockRate
+ .text.Chip_Clock_GetMainClockRate
+                0x000009c4       0x28 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000009c4                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetSystemClockRate
+                0x000009ec       0x18 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000009ec                Chip_Clock_GetSystemClockRate
+ .text.Chip_Clock_IsMainPLLEnabled
+                0x00000a04       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLLocked
+                0x00000a28       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLConnected
+                0x00000a4c       0x24 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_SetMainPLLSource
+                0x00000a70       0x20 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SetupIrcClocking
+                0x00000a90       0x6c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                0x00000a90                Chip_SetupIrcClocking
+ .text.Chip_SystemInit
+                0x00000afc        0xc C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                0x00000afc                Chip_SystemInit
+ .text.__weak_main
+                0x00000b08        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                0x00000b08                __weak_main
+                0x00000b08                __main
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.OscRateIn
+                0x00000b0c        0x4 ./src/sysinit.o
+                0x00000b0c                OscRateIn
+ .rodata.RTCOscRateIn
+                0x00000b10        0x4 ./src/sysinit.o
+                0x00000b10                RTCOscRateIn
+                0x00000b14                . = ALIGN (0x4)
+
+.glue_7         0x00000b14        0x0
+ .glue_7        0x00000b14        0x0 linker stubs
+
+.glue_7t        0x00000b14        0x0
+ .glue_7t       0x00000b14        0x0 linker stubs
+
+.vfp11_veneer   0x00000b14        0x0
+ .vfp11_veneer  0x00000b14        0x0 linker stubs
+
+.v4_bx          0x00000b14        0x0
+ .v4_bx         0x00000b14        0x0 linker stubs
+
+.iplt           0x00000b14        0x0
+ .iplt          0x00000b14        0x0 ./src/Lab03_0.o
+
+.rel.dyn        0x00000b14        0x0
+ .rel.iplt      0x00000b14        0x0 ./src/Lab03_0.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000b14                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000b14                __exidx_end = .
+                0x00000b14                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00000b14
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x4 load address 0x00000b14
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.ledStep  0x10000000        0x4 ./src/Lab03_0.o
+                0x10000000                ledStep
+                0x10000004                . = ALIGN (0x4)
+                0x10000004                _edata = .
+
+.igot.plt       0x10000004        0x0 load address 0x00000b18
+ .igot.plt      0x10000004        0x0 ./src/Lab03_0.o
+
+.bss_RAM2       0x2007c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x10000004        0x8
+                0x10000004                _bss = .
+ *(.bss*)
+ .bss.ledOn     0x10000004        0x4 ./src/Lab03_0.o
+                0x10000004                ledOn
+ *(COMMON)
+ COMMON         0x10000008        0x4 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                0x10000008                SystemCoreClock
+                0x1000000c                . = ALIGN (0x4)
+                0x1000000c                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x1000000c        0x0
+                0x1000000c                _noinit = .
+ *(.noinit*)
+                0x1000000c                . = ALIGN (0x4)
+                0x1000000c                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xefff74b2                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(Lab03_0.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x2363
+ .debug_info    0x00000000      0xa57 ./src/Lab03_0.o
+ .debug_info    0x00000a57      0x253 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000caa       0x3f ./src/crp.o
+ .debug_info    0x00000ce9      0x1c1 ./src/sysinit.o
+ .debug_info    0x00000eaa      0x51e C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_info    0x000013c8      0xb62 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_info    0x00001f2a      0x439 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_abbrev   0x00000000      0x9fc
+ .debug_abbrev  0x00000000      0x268 ./src/Lab03_0.o
+ .debug_abbrev  0x00000268       0xf5 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x0000035d       0x36 ./src/crp.o
+ .debug_abbrev  0x00000393       0xcc ./src/sysinit.o
+ .debug_abbrev  0x0000045f      0x13c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_abbrev  0x0000059b      0x2ec C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_abbrev  0x00000887      0x175 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_aranges  0x00000000      0x2f8
+ .debug_aranges
+                0x00000000       0x88 ./src/Lab03_0.o
+ .debug_aranges
+                0x00000088       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x00000108       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000120       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x00000140       0x38 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_aranges
+                0x00000178      0x120 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_aranges
+                0x00000298       0x60 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_ranges   0x00000000      0x280
+ .debug_ranges  0x00000000       0x78 ./src/Lab03_0.o
+ .debug_ranges  0x00000078       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x000000e8       0x10 ./src/sysinit.o
+ .debug_ranges  0x000000f8       0x28 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_ranges  0x00000120      0x110 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_ranges  0x00000230       0x50 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_macro    0x00000000     0x49ab
+ .debug_macro   0x00000000      0x1dc ./src/Lab03_0.o
+ .debug_macro   0x000001dc      0x892 ./src/Lab03_0.o
+ .debug_macro   0x00000a6e       0x10 ./src/Lab03_0.o
+ .debug_macro   0x00000a7e      0x12d ./src/Lab03_0.o
+ .debug_macro   0x00000bab      0x5b2 ./src/Lab03_0.o
+ .debug_macro   0x0000115d       0x22 ./src/Lab03_0.o
+ .debug_macro   0x0000117f       0x7b ./src/Lab03_0.o
+ .debug_macro   0x000011fa       0x10 ./src/Lab03_0.o
+ .debug_macro   0x0000120a       0x2d ./src/Lab03_0.o
+ .debug_macro   0x00001237       0x3a ./src/Lab03_0.o
+ .debug_macro   0x00001271       0x2d ./src/Lab03_0.o
+ .debug_macro   0x0000129e      0xbb1 ./src/Lab03_0.o
+ .debug_macro   0x00001e4f      0x22c ./src/Lab03_0.o
+ .debug_macro   0x0000207b       0x42 ./src/Lab03_0.o
+ .debug_macro   0x000020bd       0x52 ./src/Lab03_0.o
+ .debug_macro   0x0000210f       0x78 ./src/Lab03_0.o
+ .debug_macro   0x00002187       0x82 ./src/Lab03_0.o
+ .debug_macro   0x00002209      0x48c ./src/Lab03_0.o
+ .debug_macro   0x00002695       0x34 ./src/Lab03_0.o
+ .debug_macro   0x000026c9      0x4c5 ./src/Lab03_0.o
+ .debug_macro   0x00002b8e      0x1b7 ./src/Lab03_0.o
+ .debug_macro   0x00002d45       0x10 ./src/Lab03_0.o
+ .debug_macro   0x00002d55      0x21b ./src/Lab03_0.o
+ .debug_macro   0x00002f70      0x1b9 ./src/Lab03_0.o
+ .debug_macro   0x00003129       0x40 ./src/Lab03_0.o
+ .debug_macro   0x00003169       0x22 ./src/Lab03_0.o
+ .debug_macro   0x0000318b      0x162 ./src/Lab03_0.o
+ .debug_macro   0x000032ed       0x94 ./src/Lab03_0.o
+ .debug_macro   0x00003381       0xb8 ./src/Lab03_0.o
+ .debug_macro   0x00003439       0x4c ./src/Lab03_0.o
+ .debug_macro   0x00003485       0x16 ./src/Lab03_0.o
+ .debug_macro   0x0000349b      0x328 ./src/Lab03_0.o
+ .debug_macro   0x000037c3       0x49 ./src/Lab03_0.o
+ .debug_macro   0x0000380c       0x16 ./src/Lab03_0.o
+ .debug_macro   0x00003822       0xca ./src/Lab03_0.o
+ .debug_macro   0x000038ec       0x18 ./src/Lab03_0.o
+ .debug_macro   0x00003904       0x82 ./src/Lab03_0.o
+ .debug_macro   0x00003986       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x000039a3       0x1a ./src/crp.o
+ .debug_macro   0x000039bd       0x34 ./src/crp.o
+ .debug_macro   0x000039f1      0x1cd ./src/sysinit.o
+ .debug_macro   0x00003bbe      0x1cd C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00003d8b      0x886 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00004611      0x1cd C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x000047de      0x1cd C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_line     0x00000000     0x1aee
+ .debug_line    0x00000000      0x59b ./src/Lab03_0.o
+ .debug_line    0x0000059b       0xd5 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x00000670       0x78 ./src/crp.o
+ .debug_line    0x000006e8      0x409 ./src/sysinit.o
+ .debug_line    0x00000af1      0x459 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_line    0x00000f4a      0x6d5 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_line    0x0000161f      0x4cf C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_str      0x00000000    0x11ff7
+ .debug_str     0x00000000    0x111bf ./src/Lab03_0.o
+                              0x112b8 (size before relaxing)
+ .debug_str     0x000111bf      0x1b2 ./src/cr_startup_lpc175x_6x.o
+                               0x26bb (size before relaxing)
+ .debug_str     0x00011371       0xe9 ./src/crp.o
+                               0x25d3 (size before relaxing)
+ .debug_str     0x0001145a       0x1b ./src/sysinit.o
+                              0x10745 (size before relaxing)
+ .debug_str     0x00011475      0x267 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                              0x10b5a (size before relaxing)
+ .debug_str     0x000116dc      0x857 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                              0x111c8 (size before relaxing)
+ .debug_str     0x00011f33       0xc4 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                              0x1082d (size before relaxing)
+
+.comment        0x00000000       0xdc
+ .comment       0x00000000       0x6e ./src/Lab03_0.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/cr_startup_lpc175x_6x.o
+ .comment       0x0000006e       0x6f ./src/crp.o
+ .comment       0x0000006e       0x6f ./src/sysinit.o
+ .comment       0x0000006e       0x6f C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .comment       0x0000006e       0x6f C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .comment       0x0000006e       0x6f C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .comment       0x0000006e       0x6e c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                                 0x6f (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./src/Lab03_0.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/crp.o
+ .ARM.attributes
+                0x00000099       0x33 ./src/sysinit.o
+ .ARM.attributes
+                0x000000cc       0x33 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .ARM.attributes
+                0x000000ff       0x33 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .ARM.attributes
+                0x00000132       0x33 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .ARM.attributes
+                0x00000165       0x33 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.debug_frame    0x00000000      0x9f0
+ .debug_frame   0x00000000      0x208 ./src/Lab03_0.o
+ .debug_frame   0x00000208      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x00000378       0x34 ./src/sysinit.o
+ .debug_frame   0x000003ac       0x88 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_frame   0x00000434      0x490 C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_frame   0x000008c4      0x12c C:\Users\iamla\Documents\LPCXpresso_8.2.2_650\workspace\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
