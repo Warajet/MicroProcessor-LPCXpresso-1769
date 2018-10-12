@@ -23,25 +23,25 @@ endif
 # Add inputs and outputs from these tool invocations to the build variables 
 
 # All Target
-all: Lab5.axf
+all: lab5.axf
 
 # Tool invocations
-Lab5.axf: $(OBJS) $(USER_OBJS)
+lab5.axf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU Linker'
-	arm-none-eabi-gcc -nostdlib -L"C:\Users\MaxMac\Documents\LPCXpresso\lpc_board_nxp_lpcxpresso_1769\Debug" -L"C:\Users\MaxMac\Documents\LPCXpresso\lpc_chip_175x_6x\Debug" -Xlinker -Map="Lab5.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -mcpu=cortex-m3 -mthumb -T "Lab5_Debug.ld" -o "Lab5.axf" $(OBJS) $(USER_OBJS) $(LIBS)
+	arm-none-eabi-gcc -nostdlib -L"/Users/wara_1234/Documents/LPCXpresso_8.2.2/workspace/lpc_board_nxp_lpcxpresso_1769/Debug" -L"/Users/wara_1234/Documents/LPCXpresso_8.2.2/workspace/lpc_chip_175x_6x/Debug" -Xlinker -Map="lab5.map" -Xlinker --gc-sections -Xlinker -print-memory-usage -mcpu=cortex-m3 -mthumb -T "lab5_Debug.ld" -o "lab5.axf" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 	$(MAKE) --no-print-directory post-build
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) Lab5.axf
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) lab5.axf
 	-@echo ' '
 
 post-build:
 	-@echo 'Performing post-build steps'
-	-arm-none-eabi-size "Lab5.axf"; # arm-none-eabi-objcopy -v -O binary "Lab5.axf" "Lab5.bin" ; # checksum -p LPC1769 -d "Lab5.bin";
+	-arm-none-eabi-size "lab5.axf"; # arm-none-eabi-objcopy -v -O binary "lab5.axf" "lab5.bin" ; # checksum -p LPC1769 -d "lab5.bin";
 	-@echo ' '
 
 .PHONY: all clean dependents

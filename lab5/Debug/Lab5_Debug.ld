@@ -5,11 +5,11 @@
  * Generated linker script file for LPC1769
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.23
- * LPCXpresso v8.2.2 [Build 650] [2016-09-09]  on Sep 21, 2018 6:28:20 PM
+ * LPCXpresso v8.2.2 [Build 650] [2016-09-09]  on Oct 12, 2018 6:05:22 PM
  */
 
-INCLUDE "Lab5_Debug_library.ld"
-INCLUDE "Lab5_Debug_memory.ld"
+INCLUDE "lab5_Debug_library.ld"
+INCLUDE "lab5_Debug_memory.ld"
 
 ENTRY(ResetISR)
 
